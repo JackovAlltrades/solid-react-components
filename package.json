@@ -68,7 +68,7 @@
     "file-type": "^10.7.1",
     "html-webpack-include-assets-plugin": "^1.0.6",
     "jsonld": "^4.0.0",
-    "ldflex": "^2.4.0",
+    "ldflex": "^2.9.0",
     "lodash": "^4.17.15",
     "mime-types": "^2.1.24",
     "n3": "^1.1.1",
@@ -78,7 +78,7 @@
     "react-router-dom": "^5.1.2",
     "react-select": "^2.2.0",
     "request-promise": "^4.2.5",
-    "solid-auth-client": "^2.3.0",
+    "solid-auth-client": "^2.5.3",
     "unique": "0.0.1",
     "unique-string": "^1.0.0"
   },
