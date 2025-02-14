@@ -62,7 +62,7 @@
     "@shexjs/core": "^1.0.0-alpha.9",
     "@shexjs/loader": "^1.0.0-alpha.5",
     "@shexjs/parser": "^1.0.0-alpha.4",
-    "@solid/query-ldflex": "^2.6.0",
+    "@solid/query-ldflex": "^2.10.0",
     "@solid/react": "^1.10.0",
     "date-fns": "^2.8.0",
     "file-type": "^10.7.1",
@@ -78,7 +78,7 @@
     "react-router-dom": "^5.1.2",
     "react-select": "^2.2.0",
     "request-promise": "^4.2.5",
-    "solid-auth-client": "^2.3.0",
+    "solid-auth-client": "^2.5.0",
     "unique": "0.0.1",
     "unique-string": "^1.0.0"
   },
