@@ -56,7 +56,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@babel/runtime": "^7.1.2",
+    "@babel/runtime": "^7.10.4",
     "@inrupt/solid-sdk-forms": "0.1.1",
     "@rdfjs/data-model": "^1.1.1",
     "@shexjs/core": "^1.0.0-alpha.9",
