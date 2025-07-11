@@ -77,8 +77,8 @@
     "react-datepicker": "^2.9.6",
     "react-router-dom": "^5.1.2",
     "react-select": "^2.2.0",
-    "request-promise": "^4.2.5",
-    "solid-auth-client": "^2.3.0",
+    "request-promise": "^4.2.6",
+    "solid-auth-client": "^2.5.3",
     "unique": "0.0.1",
     "unique-string": "^1.0.0"
   },
